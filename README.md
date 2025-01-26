@@ -24,7 +24,7 @@ En el artículo encontrarás:
 ---
 
 ### **Enlace al artículo**
-📖 [**Lee el artículo completo aquí**](https://tublog.com/generar-pdfs-con-javascript](https://www.codeporx.com/blog/javascript/como-generar-pdfs-con-javascript)).
+📖 [**Lee el artículo completo aquí**](https://www.codeporx.com/blog/javascript/como-generar-pdfs-con-javascript).
 
 ---
 
